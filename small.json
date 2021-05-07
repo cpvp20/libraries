@@ -1,0 +1,43 @@
+{
+    "libraries": [{
+            "address": "Av Guadalupe 1294, Fracc, Jardín de San Ignacio, 45040 Zapopan, Jal.",
+            "id": "Librería El Sótano Guadalajara",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipM_6oQi41hUntA9oBE39ox48as2SQl82r5cYT9_=w426-h240-k-no",
+            "lat": 20.666,
+            "lng": -103.404,
+            "name": "Librería El Sótano Guadalajara",
+            "phone": "+528002768266",
+            "region": "latin-america"
+        },
+        {
+            "address": "Calle Enrique González Martínez 130, Zona Centro, 44100 Guadalajara, Jal.",
+            "id": "Librería Libélula",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNkMIlF1SqGYhELkDxMO1QsOxQdhPXVL3f1RzZZ=w408-h544-k-no",
+            "lat": 20.6747,
+            "lng": -103.3506,
+            "name": "Librería Libélula",
+            "phone": "++523336140196",
+            "region": "north-america"
+        },
+        {
+            "address": "44160, Calle Pedro Moreno 1530, Lafayette, Guadalajara, Jal.",
+            "id": "La Perla Records & Books",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNFVRRepniiQwtacagUu3YNp_8g9M5hsSV6STkE=w408-h886-k-no",
+            "lat": 20.6755,
+            "lng": -103.3689,
+            "name": "La Perla Records & Books",
+            "phone": "+523315253015",
+            "region": "north-america"
+        },
+        {
+            "address": "Calle Simón Bolívar 49, Col Americana, Americana, 44160 Guadalajara, Jal.",
+            "id": "Mar de Tinta",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipOEn7GOnw683RlLQe-MsUHcEks6XauWS7Ezno8O=w408-h544-k-no",
+            "lat": 20.6754,
+            "lng": -103.372,
+            "name": "Mar de Tinta",
+            "phone": "+523331495689",
+            "region": "north-america"
+        }
+    ]
+}
